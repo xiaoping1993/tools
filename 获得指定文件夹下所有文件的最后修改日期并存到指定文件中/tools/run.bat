@@ -1,0 +1,1 @@
+java -DlogPath="C:\\Users\\wangj01052\\Desktop\\CstoneDev\\" -DdirPath="C:\\Users\\wangj01052\\Desktop\\CstoneDev\\data\\" -DfilesAttrsPath="C:\\Users\\wangj01052\\Desktop\\CstoneDev\\filesAttrsPath.txt" -jar getFileAttrs.jar
